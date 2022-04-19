@@ -234,7 +234,7 @@ bool Board::moveDirection(int startX, int startY, int endX, int endY)
         {
             if (arr[startX][j] == " " || arr[startX][j] == "-" )
             {
-
+                // TODO bleh
             }
         }
     }
